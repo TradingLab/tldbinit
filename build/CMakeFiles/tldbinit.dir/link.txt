@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/tldbinit.dir/main.o CMakeFiles/tldbinit.dir/mainwindow.o  -o tldbinit -rdynamic -lpqxx 
